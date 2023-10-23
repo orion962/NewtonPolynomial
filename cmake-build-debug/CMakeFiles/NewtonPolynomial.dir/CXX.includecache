@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Danil/CLionProjects/NewtonPolynomial/headers/TableFun.h
+iostream
+-
+fstream
+-
+vector
+-
+utility
+-
+
+C:/Users/Danil/CLionProjects/NewtonPolynomial/src/TableFun.cpp
+../headers/TableFun.h
+C:/Users/Danil/CLionProjects/NewtonPolynomial/headers/TableFun.h
+
+C:/Users/Danil/CLionProjects/NewtonPolynomial/src/main.cpp
+../headers/TableFun.h
+C:/Users/Danil/CLionProjects/NewtonPolynomial/headers/TableFun.h
+

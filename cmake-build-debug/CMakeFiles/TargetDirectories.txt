@@ -1,0 +1,3 @@
+C:/Users/Danil/CLionProjects/NewtonPolynomial/cmake-build-debug/CMakeFiles/NewtonPolynomial.dir
+C:/Users/Danil/CLionProjects/NewtonPolynomial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Danil/CLionProjects/NewtonPolynomial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
